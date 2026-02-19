@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Web (Vite)
+dist/
+
+# Mobile (Expo)
+.expo/
+*.jks
+*.keystore
+
+# Editor
+.vscode/
+.idea/
